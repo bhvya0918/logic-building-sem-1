@@ -1,18 +1,21 @@
-Number Guessing Game (C Program)
-This is a simple console-based Number Guessing Game written in C.
-The program generates a random number between 1 and 100, and the user tries to guess it. After each attempt, the program provides hints to help the user reach the correct answer.
-🔧 How It Works
-•	A random number is generated using rand() and seeded with time(0) so it changes every run.
-•	The user enters guesses in a loop.
-•	The program checks each guess:
-o	Too high → prompts to try again
-o	Too low → prompts to try again
-o	Correct → congratulates the user and ends the game
-🧠 Concepts Used
-•	Random number generation
-•	Looping (while(1))
-•	Conditional statements (if / else if / else)
-•	User input handling
-✔️ Outcome
-A fully interactive game that helps beginners understand C basics like randomness, loops, and conditional logic.
+Logic Building — Problem Solving with C
 
+A collection of beginner-friendly C programs designed to strengthen core programming logic. This repository includes small, structured exercises that focus on loops, conditionals, operators, arrays, strings, and pointers.
+
+The goal of this project is to improve step-by-step thinking, understand how code flows, and build confidence in writing clean and efficient solutions. Each program is written in simple C, making it easy for beginners to read, modify, and learn from.
+
+What this repo includes:
+
+Basic input/output practice
+
+If–else and nested conditions
+
+Loop-based problems (for, while, do-while)
+
+Pattern printing
+
+Array & string manipulation
+
+Pointer-based logic questions
+
+Mini assignments for viva preparation
